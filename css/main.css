@@ -42,7 +42,8 @@
   }
 }
 
-body, html {
+body,
+html {
   margin: 0 auto;
   padding: 0;
   width: 100%;
@@ -56,7 +57,10 @@ body {
   color: #2d3c49;
 }
 
-img, embed, object, video {
+img,
+embed,
+object,
+video {
   max-width: 100%;
 }
 
@@ -64,16 +68,27 @@ img {
   height: auto;
 }
 
-nav a, button {
+nav a,
+button {
   min-width: 48px;
   min-height: 48px;
 }
 
-header, nav, footer, section, article, div {
+header,
+nav,
+footer,
+section,
+article,
+div {
   box-sizing: border-box;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 0;
 }
 
